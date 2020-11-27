@@ -2,6 +2,8 @@
 // @name        Trickster
 // @description Trickster
 //@author       GZ028
+// @updateURL   	https://github.com/GZ028/trickter/raw/main/trickster.user.js
+// @downloadURL 	https://github.com/GZ028/trickter/raw/main/trickster.user.js
 // @namespace   https://online-filmek.me/
 // @match        https*://*online-filmek.me/film/*
 // @version     0.1
