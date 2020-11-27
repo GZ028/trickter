@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Trickster
 // @description Trickster
-//@author       -----
+//@author       GZ028
 // @namespace   https://online-filmek.me/
 // @match        https*://*online-filmek.me/film/*
 // @version     0.1
