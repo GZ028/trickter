@@ -6,7 +6,8 @@
 // @downloadURL https://github.com/GZ028/trickter/raw/main/trickster.user.js
 // @namespace   https://online-filmek.me/
 // @match        https*://*online-filmek.me/film/*
-// @version     0.1
+//@match         https*://*online-filmek.me/sorozat/*
+// @version     0.2
 // ==/UserScript==
 var input = document.createElement("input");
 input.type = "button";
